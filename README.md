@@ -30,29 +30,29 @@ A curated list of toneflix maintained and colaborated open source packages.
 [11]:https://github.com/HPWebdeveloper/laravel-pay-pocket
 [12]:https://github.com/toneflix/laravel-social-interactions
 
-[i1]:http://poser.pugx.org/toneflix-code/laravel-fileable/v
+[i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
-[d1]:http://poser.pugx.org/toneflix-code/laravel-fileable/downloads
+[d1]:https://img.shields.io/packagist/dt/toneflix-code/laravel-fileable.svg?style=flat-square
 
-[i2]:http://poser.pugx.org/toneflix-code/approvable-notifications/v
+[i2]:https://img.shields.io/packagist/v/toneflix-code/approvable-notifications.svg?style=flat-square
 [l2]:https://packagist.org/packages/toneflix-code/approvable-notifications
-[d2]:http://poser.pugx.org/toneflix-code/approvable-notifications/downloads
+[d2]:https://img.shields.io/packagist/dt/toneflix-code/approvable-notifications.svg?style=flat-square
 
-[i3]:http://poser.pugx.org/toneflix-code/laravel-op/v
+[i3]:https://img.shields.io/packagist/v/toneflix-code/laravel-op.svg?style=flat-square
 [l3]:https://packagist.org/packages/toneflix-code/laravel-op
-[d3]:http://poser.pugx.org/toneflix-code/laravel-op/downloads
+[d3]:https://img.shields.io/packagist/dt/toneflix-code/laravel-op.svg?style=flat-square
 
-[i4]:http://poser.pugx.org/toneflix-code/kudisms-notification/v
+[i4]:https://img.shields.io/packagist/v/toneflix-code/kudisms-notification.svg?style=flat-square
 [l4]:https://packagist.org/packages/toneflix-code/kudisms-notification
-[d4]:http://poser.pugx.org/toneflix-code/kudisms-notification/downloads
+[d4]:https://img.shields.io/packagist/dt/toneflix-code/kudisms-notification.svg?style=flat-square
 
-[i5]:http://poser.pugx.org/toneflix-code/kudi-sms-php/v
+[i5]:https://img.shields.io/packagist/v/toneflix-code/kudi-sms-php.svg?style=flat-square
 [l5]:https://packagist.org/packages/toneflix-code/kudi-sms-php
-[d5]:http://poser.pugx.org/toneflix-code/kudi-sms-php/downloads
+[d5]:https://img.shields.io/packagist/dt/toneflix-code/kudi-sms-php.svg?style=flat-square
 
-[i6]:http://poser.pugx.org/toneflix-code/cuttly-laravel/v
+[i6]:https://img.shields.io/packagist/v/toneflix-code/cuttly-laravel.svg?style=flat-square
 [l6]:https://packagist.org/packages/toneflix-code/cuttly-laravel
-[d6]:http://poser.pugx.org/toneflix-code/cuttly-laravel/downloads
+[d6]:https://img.shields.io/packagist/dt/toneflix-code/cuttly-laravel.svg?style=flat-square
 
 [i7]:http://poser.pugx.org/toneflix-code/lorem-toneflix/v
 [l7]:https://github.com/toneflix/lorem-toneflix
@@ -70,10 +70,10 @@ A curated list of toneflix maintained and colaborated open source packages.
 [l10]:https://www.npmjs.com/package/@toneflix-code/flickity-vue
 [d10]:https://img.shields.io/npm/dt/@toneflix-code/flickity-vue.svg?style=flat-square
 
-[i11]:http://poser.pugx.org/hpwebdeveloper/laravel-pay-pocket/v
+[i11]:https://img.shields.io/packagist/v/hpwebdeveloper/laravel-pay-pocket.svg?style=flat-square
 [l11]:https://packagist.org/packages/hpwebdeveloper/laravel-pay-pocket
-[d11]:http://poser.pugx.org/hpwebdeveloper/laravel-pay-pocket/downloads
+[d11]:https://img.shields.io/packagist/dt/hpwebdeveloper/laravel-pay-pocket.svg?style=flat-square
 
-[i12]:http://poser.pugx.org/toneflix-code/social-interactions/v
+[i12]:https://img.shields.io/packagist/v/toneflix-code/social-interactions.svg?style=flat-square
 [l12]:https://packagist.org/packages/toneflix-code/social-interactions
-[d12]:http://poser.pugx.org/toneflix-code/social-interactions/downloads
+[d12]:https://img.shields.io/packagist/dt/toneflix-code/social-interactions.svg?style=flat-square
