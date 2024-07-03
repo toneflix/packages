@@ -1,8 +1,8 @@
 # Toneflix Packages
 A curated list of toneflix maintained and colaborated open source packages.
 
-| S/N | Package                               | Platform        | Description                                                                                                                                                                       |
-|-----|---------------------------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| S/N | Package                                   | Platform        | Description                                                                                                                                                                   |
+|-----|-------------------------------------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1   | **[Laravel Fileable][1]**                 | Laravel/PHP     | Laravel Fileable exposes methods that make handling file upload with Laravel filesystem even easier, it also exposes a trait that automatically handles file uploads for you. |
 | 2   | **[Laravel Approvable Notifications][2]** | Laravel/PHP     | A Laravel package to handle database notifications that require user interactions                                                                                             |
 | 3   | **[Laravel OP][3]**                       | Laravel/PHP     | Laravel OP is simple fork of Laravel packed with other features and libraries frequently used within the toneflix ecosystem.                                                  |
@@ -29,3 +29,6 @@ A curated list of toneflix maintained and colaborated open source packages.
 [10]:https://github.com/toneflix/flickity-vue
 [11]:https://github.com/HPWebdeveloper/laravel-pay-pocket
 [12]:https://github.com/toneflix/laravel-social-interactions
+
+[i1]:http://poser.pugx.org/toneflix-code/social-interactions/v
+[![Latest Stable Version][i1]](https://packagist.org/packages/toneflix-code/social-interactions) [![Total Downloads](http://poser.pugx.org/toneflix-code/social-interactions/downloads)](https://packagist.org/packages/toneflix-code/social-interactions) 
