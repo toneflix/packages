@@ -9,13 +9,14 @@ A curated list of toneflix maintained and colaborated open source packages.
 | 4   | **[KUDI Notifications][4]**                  | Laravel/PHP     | [![Latest Stable Version][i4]][l4] <br /> [![Total Downloads][d4]][l4]      | KUDI SMS Notifications Driver for Laravel                                                                                                                                     |
 | 5   | **[KudiSMS PHP][5]**                         | PHP             | [![Latest Stable Version][i5]][l5] <br /> [![Total Downloads][d5]][l5]      | A PHP wrapper for KudiSMS.                                                                                                                                                    |
 | 6   | **[Cutt.ly Laravel][6]**                     | Laravel/PHP     | [![Latest Stable Version][i6]][l6] <br /> [![Total Downloads][d6]][l6]      | A Laravel API wrapper for Cutt.ly API.                                                                                                                                        |
-| 7   | **[Lorem Toneflix][7]**                      | Laravel/PHP     | [![Latest Stable Version][i7]][l7] <br /> [![Total Downloads][d7]][l7]      | Simple Image Placeholder service that does what it says... Provide placeholder images.                                                                                        |
+| 7   | **[Lorem Toneflix][7]**                      | Laravel/PHP     |                                                                             | Simple Image Placeholder service that does what it says... Provide placeholder images.                                                                                        |
 | 8   | **[Vue Video Confrencing][8]**               | Vue/Javascript  | [![Latest Stable Version][i8]][l8] <br /> [![Total Downloads][d8]][l8]      | Simple video conferencing library built with Vue.js and Jitsi Meet API (Low Level).                                                                                           |
 | 9   | **[Vue Video Confrencing (Lite)][9]**        | Vue/Javascript  | [![Latest Stable Version][i9]][l9] <br /> [![Total Downloads][d9]][l9]      | Simple video conferencing library built with Vue.js and Jitsi Meet API (Low Level, Stripped Dependencies).                                                                    |
 | 10  | **[Flickity Vue][10]**                       | Vue/Javascript  | [![Latest Stable Version][i12]][l10] <br /> [![Total Downloads][d10]][l10]  | A vue 3 wrapper component for Flickity slider                                                                                                                                 |
 | 11  | **[Laravel Pay Pocket][11]**                 | Laravel/PHP     | [![Latest Stable Version][i11]][l11] <br /> [![Total Downloads][d11]][l11]  | A modern multi-wallet Laravel 10,11 package with comprehensive logging and payments capabilities.                                                                             |
 | 12  | **[Laravel Social Interactions][12]**        | Laravel/PHP     | [![Latest Stable Version][i12]][l12] <br /> [![Total Downloads][d12]][l12]  | A Laravel package to add social interactions like likes, reactions, votes, saving/bookmarks e.t.c to your models.                                                             |
-| 13  | **[Fakerphp Lorem Toneflix Images][13]**     | Laravel/PHP     | [![Latest Stable Version][i13]][l13] <br /> [![Total Downloads][d13]][l13]  | An alternative image provider for fakerphp using Lorem Toneflix.                                                                                                            |
+| 13  | **[Fakerphp Lorem Toneflix Images][13]**     | Laravel/PHP     | [![Latest Stable Version][i13]][l13] <br /> [![Total Downloads][d13]][l13]  | An alternative image provider for fakerphp using Lorem Toneflix.                                                                                                              |
+| 13  | **[Naija Places API][14]**                   | Laravel/PHP     |                                                                             | Query all states, Local government areas, Wards, Polling Units and Towns in Nigeria.                                                                                          |
 
 
 [1]:https://github.com/toneflix/laravel-fileable
@@ -24,13 +25,14 @@ A curated list of toneflix maintained and colaborated open source packages.
 [4]:https://github.com/toneflix/kudisms-notification
 [5]:https://github.com/toneflix/kudi-sms-php
 [6]:https://github.com/toneflix/cuttly-laravel
-[7]:https://github.com/toneflix/lorem-toneflix
+[7]:https://lorem.toneflix.com.ng
 [8]:https://github.com/toneflix/vue-video-conferencing
 [9]:https://github.com/toneflix/vue-video-conferencing-lite
 [10]:https://github.com/toneflix/flickity-vue
 [11]:https://github.com/HPWebdeveloper/laravel-pay-pocket
 [12]:https://github.com/toneflix/laravel-social-interactions
 [13]:https://github.com/toneflix/fakerphp-lorem-toneflix
+[14]:https://naija-places.toneflix.com.ng
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
@@ -56,9 +58,9 @@ A curated list of toneflix maintained and colaborated open source packages.
 [l6]:https://packagist.org/packages/toneflix-code/cuttly-laravel
 [d6]:https://img.shields.io/packagist/dt/toneflix-code/cuttly-laravel.svg?style=flat-square
 
-[i7]:http://poser.pugx.org/toneflix-code/lorem-toneflix/v
-[l7]:https://github.com/toneflix/lorem-toneflix
-[d7]:http://poser.pugx.org/toneflix-code/lorem-toneflix/downloads
+[i7]:/
+[l7]:/
+[d7]:/
 
 [i8]:https://img.shields.io/npm/v/vue-video-conference.svg?style=flat-square
 [l8]:https://www.npmjs.com/package/vue-video-conference
@@ -83,3 +85,7 @@ A curated list of toneflix maintained and colaborated open source packages.
 [i13]:https://img.shields.io/packagist/v/toneflix-code/fakerphp-lorem-toneflix.svg?style=flat-square
 [l13]:https://packagist.org/packages/toneflix-code/fakerphp-lorem-toneflix
 [d13]:https://img.shields.io/packagist/dt/toneflix-code/fakerphp-lorem-toneflix.svg?style=flat-square
+
+[i14]:/
+[l14]:/
+[d14]:/
