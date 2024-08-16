@@ -12,11 +12,12 @@ A curated list of toneflix maintained and colaborated open source packages.
 | 7   | **[Lorem Toneflix][7]**                      | Laravel/PHP     |                                                                             | Simple Image Placeholder service that does what it says... Provide placeholder images.                                                                                        |
 | 8   | **[Vue Video Confrencing][8]**               | Vue/Javascript  | [![Latest Stable Version][i8]][l8] <br /> [![Total Downloads][d8]][l8]      | Simple video conferencing library built with Vue.js and Jitsi Meet API (Low Level).                                                                                           |
 | 9   | **[Vue Video Confrencing (Lite)][9]**        | Vue/Javascript  | [![Latest Stable Version][i9]][l9] <br /> [![Total Downloads][d9]][l9]      | Simple video conferencing library built with Vue.js and Jitsi Meet API (Low Level, Stripped Dependencies).                                                                    |
-| 10  | **[Flickity Vue][10]**                       | Vue/Javascript  | [![Latest Stable Version][i12]][l10] <br /> [![Total Downloads][d10]][l10]  | A vue 3 wrapper component for Flickity slider                                                                                                                                 |
+| 10  | **[Flickity Vue][10]**                       | Vue/Javascript  | [![Latest Stable Version][i10]][l10] <br /> [![Total Downloads][d10]][l10]  | A vue 3 wrapper component for Flickity slider                                                                                                                                 |
 | 11  | **[Laravel Pay Pocket][11]**                 | Laravel/PHP     | [![Latest Stable Version][i11]][l11] <br /> [![Total Downloads][d11]][l11]  | A modern multi-wallet Laravel 10,11 package with comprehensive logging and payments capabilities.                                                                             |
 | 12  | **[Laravel Social Interactions][12]**        | Laravel/PHP     | [![Latest Stable Version][i12]][l12] <br /> [![Total Downloads][d12]][l12]  | A Laravel package to add social interactions like likes, reactions, votes, saving/bookmarks e.t.c to your models.                                                             |
 | 13  | **[Fakerphp Lorem Toneflix Images][13]**     | Laravel/PHP     | [![Latest Stable Version][i13]][l13] <br /> [![Total Downloads][d13]][l13]  | An alternative image provider for fakerphp using Lorem Toneflix.                                                                                                              |
-| 13  | **[Naija Places API][14]**                   | Laravel/PHP     |                                                                             | Query all states, Local government areas, Wards, Polling Units and Towns in Nigeria.                                                                                          |
+| 14  | **[Naija Places API][14]**                   | Laravel/PHP     |                                                                             | Query all states, Local government areas, Wards, Polling Units and Towns in Nigeria.                                                                                          |
+| 15  | **[Vue OTP Input][15]**                      | Vue/Javascript  | [![Latest Stable Version][i15]][l15] <br /> [![Total Downloads][d15]][l15]  | Simple customizable OTP input for Vue 3.                                                                                                                                      |
 
 
 [1]:https://github.com/toneflix/laravel-fileable
@@ -33,6 +34,7 @@ A curated list of toneflix maintained and colaborated open source packages.
 [12]:https://github.com/toneflix/laravel-social-interactions
 [13]:https://github.com/toneflix/fakerphp-lorem-toneflix
 [14]:https://naija-places.toneflix.com.ng
+[15]:https://toneflix.github.io/vue-component-pack/otp-input
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
@@ -89,3 +91,7 @@ A curated list of toneflix maintained and colaborated open source packages.
 [i14]:/
 [l14]:/
 [d14]:/
+
+[i15]:https://img.shields.io/npm/v/@toneflix/otp-input.svg?style=flat-square
+[l15]:https://www.npmjs.com/package/@toneflix/otp-input
+[d15]:https://img.shields.io/npm/dt/@toneflix/otp-input.svg?style=flat-square
