@@ -18,7 +18,8 @@ A curated list of toneflix maintained and colaborated open source packages.
 | 13  | **[Fakerphp Lorem Toneflix Images][13]**     | Laravel/PHP     | [![Latest Stable Version][i13]][l13] <br /> [![Total Downloads][d13]][l13]  | An alternative image provider for fakerphp using Lorem Toneflix.                                                                                                              |
 | 14  | **[Naija Places API][14]**                   | Laravel/PHP     |                                                                             | Query all states, Local government areas, Wards, Polling Units and Towns in Nigeria.                                                                                          |
 | 15  | **[Vue OTP Input][15]**                      | Vue/Javascript  | [![Latest Stable Version][i15]][l15] <br /> [![Total Downloads][d15]][l15]  | Simple customizable OTP input for Vue 3.                                                                                                                                      |
-| 16  | **[Laravel Resource Modifier][16]**          | Laravel/PHP     | [![Latest Stable Version][i16]][l16] <br /> [![Total Downloads][d16]][l16]  | Intercept, customize, remove and modify the meta data and links on your Eloquent API Resource response
+| 16  | **[Laravel Resource Modifier][16]**          | Laravel/PHP     | [![Latest Stable Version][i16]][l16] <br /> [![Total Downloads][d16]][l16]  | Intercept, customize, remove and modify the meta data and links on your Eloquent API Resource response                                                                        |
+| 6   | **[Cutt.ly PHP][17]**                        | PHP             | [![Latest Stable Version][i17]][l17] <br /> [![Total Downloads][d17]][l17]  | A PHP wrapper for Cutt.ly API.                                                                                                                                                |
 
 [1]:https://github.com/toneflix/laravel-fileable
 [2]:https://github.com/toneflix/laravel-approvable-notifications
@@ -36,6 +37,7 @@ A curated list of toneflix maintained and colaborated open source packages.
 [14]:https://naija-places.toneflix.com.ng
 [15]:https://toneflix.github.io/vue-component-pack/otp-input
 [16]:https://github.com/toneflix/laravel-resource-modifier
+[17]:https://github.com/toneflix/cuttly-php
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
@@ -100,4 +102,8 @@ A curated list of toneflix maintained and colaborated open source packages.
 [i16]:https://img.shields.io/packagist/v/toneflix-code/laravel-resource-modifier.svg?style=flat-square
 [l16]:https://packagist.org/packages/toneflix-code/laravel-resource-modifier
 [d16]:https://img.shields.io/packagist/dt/toneflix-code/laravel-resource-modifier.svg?style=flat-square
+
+[i17]:https://img.shields.io/packagist/v/toneflix-code/cuttly-php.svg?style=flat-square
+[l17]:https://packagist.org/packages/toneflix-code/cuttly-php
+[d17]:https://img.shields.io/packagist/dt/toneflix-code/cuttly-php.svg?style=flat-square
 
