@@ -20,6 +20,8 @@ A curated list of toneflix maintained and colaborated open source packages.
 | 15  | **[Vue OTP Input][15]**                      | Vue/Javascript  | [![Latest Stable Version][i15]][l15] <br /> [![Total Downloads][d15]][l15]  | Simple customizable OTP input for Vue 3.                                                                                                                                      |
 | 16  | **[Laravel Resource Modifier][16]**          | Laravel/PHP     | [![Latest Stable Version][i16]][l16] <br /> [![Total Downloads][d16]][l16]  | Intercept, customize, remove and modify the meta data and links on your Eloquent API Resource response                                                                        |
 | 17  | **[Cutt.ly PHP][17]**                        | PHP             | [![Latest Stable Version][i17]][l17] <br /> [![Total Downloads][d17]][l17]  | A PHP wrapper for Cutt.ly API.                                                                                                                                                |
+| 18  | **[Paystack Inline][18]**                    | Vue/Javascript  | [![Latest Stable Version][i18]][l18] <br /> [![Total Downloads][d18]][l18]  | Simple Paystack Inline component for Vue 3                                                                                                                                    |
+| 19  | **[Vue Authenticator][19]**                  | Vue/Javascript  | [![Latest Stable Version][i19]][l19] <br /> [![Total Downloads][d19]][l19]  | Advanced authentication plugin for Vue 3                                                                                                                                      |
 
 [1]:https://github.com/toneflix/laravel-fileable
 [2]:https://github.com/toneflix/laravel-approvable-notifications
@@ -38,6 +40,8 @@ A curated list of toneflix maintained and colaborated open source packages.
 [15]:https://toneflix.github.io/vue-component-pack/otp-input
 [16]:https://github.com/toneflix/laravel-resource-modifier
 [17]:https://github.com/toneflix/cuttly-php
+[18]:https://toneflix.github.io/vue-component-pack/vue-auth
+[19]:https://toneflix.github.io/vue-component-pack/vue-auth
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
@@ -106,4 +110,12 @@ A curated list of toneflix maintained and colaborated open source packages.
 [i17]:https://img.shields.io/packagist/v/toneflix-code/cuttly-php.svg?style=flat-square
 [l17]:https://packagist.org/packages/toneflix-code/cuttly-php
 [d17]:https://img.shields.io/packagist/dt/toneflix-code/cuttly-php.svg?style=flat-square
+
+[i18]:https://img.shields.io/npm/v/@toneflix/paystack-inline.svg?style=flat-square
+[l18]:https://www.npmjs.com/package/@toneflix/paystack-inline
+[d18]:https://img.shields.io/npm/dt/@toneflix/paystack-inline.svg?style=flat-square
+
+[i19]:https://img.shields.io/npm/v/@toneflix/vue-auth.svg?style=flat-square
+[l19]:https://www.npmjs.com/package/@toneflix/vue-auth
+[d19]:https://img.shields.io/npm/dt/@toneflix/vue-auth.svg?style=flat-square
 
