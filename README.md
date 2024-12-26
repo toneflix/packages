@@ -22,6 +22,7 @@ A curated list of toneflix maintained and colaborated open source packages.
 | 17  | **[Cutt.ly PHP][17]**                        | PHP             | [![Latest Stable Version][i17]][l17] <br /> [![Total Downloads][d17]][l17]  | A PHP wrapper for Cutt.ly API.                                                                                                                                                |
 | 18  | **[Paystack Inline][18]**                    | Vue/Javascript  | [![Latest Stable Version][i18]][l18] <br /> [![Total Downloads][d18]][l18]  | Simple Paystack Inline component for Vue 3                                                                                                                                    |
 | 19  | **[Vue Authenticator][19]**                  | Vue/Javascript  | [![Latest Stable Version][i19]][l19] <br /> [![Total Downloads][d19]][l19]  | Advanced authentication plugin for Vue 3                                                                                                                                      |
+| 20  | **[Vue Trix][20]**                           | Vue/Javascript  | [![Latest Stable Version][i19]][l20] <br /> [![Total Downloads][d20]][l20]  | Simple and lightweight Trix rich-text editor for Vue.js.                                                                                                                      |
 
 [1]:https://github.com/toneflix/laravel-fileable
 [2]:https://github.com/toneflix/laravel-approvable-notifications
@@ -42,6 +43,7 @@ A curated list of toneflix maintained and colaborated open source packages.
 [17]:https://github.com/toneflix/cuttly-php
 [18]:https://toneflix.github.io/vue-component-pack/vue-auth
 [19]:https://toneflix.github.io/vue-component-pack/vue-auth
+[20]:https://toneflix.github.io/vue-component-pack/vue-trix
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
@@ -118,4 +120,8 @@ A curated list of toneflix maintained and colaborated open source packages.
 [i19]:https://img.shields.io/npm/v/@toneflix/vue-auth.svg?style=flat-square
 [l19]:https://www.npmjs.com/package/@toneflix/vue-auth
 [d19]:https://img.shields.io/npm/dt/@toneflix/vue-auth.svg?style=flat-square
+
+[i20]:https://img.shields.io/npm/v/@toneflix/vue-trix.svg?style=flat-square
+[l20]:https://www.npmjs.com/package/@toneflix/vue-trix
+[d20]:https://img.shields.io/npm/dt/@toneflix/vue-trix.svg?style=flat-square
 
