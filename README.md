@@ -1,4 +1,4 @@
-# Greysoft - Toneflix Packages
+# Toneflix Packages by Greysoft Technologies
 A curated list of toneflix maintained and colaborated open source packages.
 
 | S/N | Package                                      | Platform        | Stats                                                                       | Description                                                                                                                                                                   |
