@@ -22,7 +22,8 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 17  | **[Cutt.ly PHP][17]**                        | PHP             | [![Latest Stable Version][i17]][l17] <br /> [![Total Downloads][d17]][l17]  | A PHP wrapper for Cutt.ly API.                                                                                                                                                |
 | 18  | **[Paystack Inline][18]**                    | Vue/Javascript  | [![Latest Stable Version][i18]][l18] <br /> [![Total Downloads][d18]][l18]  | Simple Paystack Inline component for Vue 3                                                                                                                                    |
 | 19  | **[Vue Authenticator][19]**                  | Vue/Javascript  | [![Latest Stable Version][i19]][l19] <br /> [![Total Downloads][d19]][l19]  | Advanced authentication plugin for Vue 3                                                                                                                                      |
-| 20  | **[Vue Trix][20]**                           | Vue/Javascript  | [![Latest Stable Version][i19]][l20] <br /> [![Total Downloads][d20]][l20]  | Simple and lightweight Trix rich-text editor for Vue.js.                                                                                                                      |
+| 20  | **[Vue Trix][20]**                           | Vue/Javascript  | [![Latest Stable Version][i20]][l20] <br /> [![Total Downloads][d20]][l20]  | Simple and lightweight Trix rich-text editor for Vue.js.                                                                                                                      |
+| 20  | **[Vue Place Selector][20]**                 | Vue/Javascript  | [![Latest Stable Version][i21]][l21] <br /> [![Total Downloads][d20]][l20]  | Country State City Selector component for Vue3.                                                                                                                               |
 
 [1]:https://github.com/toneflix/laravel-fileable
 [2]:https://github.com/toneflix/laravel-approvable-notifications
@@ -44,6 +45,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [18]:https://toneflix.github.io/vue-component-pack/vue-auth
 [19]:https://toneflix.github.io/vue-component-pack/vue-auth
 [20]:https://toneflix.github.io/vue-component-pack/vue-trix
+[21]:https://toneflix.github.io/vue-component-pack/vue-place-selector
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
@@ -125,3 +127,6 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [l20]:https://www.npmjs.com/package/@toneflix/vue-trix
 [d20]:https://img.shields.io/npm/dt/@toneflix/vue-trix.svg?style=flat-square
 
+[i21]:https://img.shields.io/npm/v/@toneflix/vue-place-selector.svg?style=flat-square
+[l21]:https://www.npmjs.com/package/@toneflix/vue-place-selector
+[d21]:https://img.shields.io/npm/dt/@toneflix/vue-place-selector.svg?style=flat-square
