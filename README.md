@@ -45,7 +45,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [18]:https://toneflix.github.io/vue-component-pack/vue-auth
 [19]:https://toneflix.github.io/vue-component-pack/vue-auth
 [20]:https://toneflix.github.io/vue-component-pack/vue-trix
-[21]:https://toneflix.github.io/vue-component-pack/vue-place-selector
+[21]:https://github.com/toneflix/vue-component-pack/tree/main/packages/vue-place-selector
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
