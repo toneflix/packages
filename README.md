@@ -24,6 +24,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 19  | **[Vue Authenticator][19]**                  | Vue/Javascript  | [![Latest Stable Version][i19]][l19] <br /> [![Total Downloads][d19]][l19]  | Advanced authentication plugin for Vue 3                                                                                                                                      |
 | 20  | **[Vue Trix][20]**                           | Vue/Javascript  | [![Latest Stable Version][i20]][l20] <br /> [![Total Downloads][d20]][l20]  | Simple and lightweight Trix rich-text editor for Vue.js.                                                                                                                      |
 | 21  | **[Vue Place Selector][21]**                 | Vue/Javascript  | [![Latest Stable Version][i21]][l21] <br /> [![Total Downloads][d21]][l21]  | Country State City Selector component for Vue3.                                                                                                                               |
+| 21  | **[Toneflix Bash Apps][21]**                 | Bash            | N/A                                                                         | A curated collection of useful bash utilities.                                                                                                                                |
 
 [1]:https://github.com/toneflix/laravel-fileable
 [2]:https://github.com/toneflix/laravel-approvable-notifications
@@ -46,6 +47,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [19]:https://toneflix.github.io/vue-component-pack/vue-auth
 [20]:https://toneflix.github.io/vue-component-pack/vue-trix
 [21]:https://github.com/toneflix/vue-component-pack/tree/main/packages/vue-place-selector
+[22]:https://github.com/toneflix/bash-apps
 
 [i1]:https://img.shields.io/packagist/v/toneflix-code/laravel-fileable.svg?style=flat-square
 [l1]:https://packagist.org/packages/toneflix-code/laravel-fileable
