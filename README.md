@@ -24,7 +24,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 19  | **[Vue Authenticator][19]**                  | Vue/Javascript  | [![Latest Stable Version][i19]][l19] <br /> [![Total Downloads][d19]][l19]  | Advanced authentication plugin for Vue 3                                                                                                                                      |
 | 20  | **[Vue Trix][20]**                           | Vue/Javascript  | [![Latest Stable Version][i20]][l20] <br /> [![Total Downloads][d20]][l20]  | Simple and lightweight Trix rich-text editor for Vue.js.                                                                                                                      |
 | 21  | **[Vue Place Selector][21]**                 | Vue/Javascript  | [![Latest Stable Version][i21]][l21] <br /> [![Total Downloads][d21]][l21]  | Country State City Selector component for Vue3.                                                                                                                               |
-| 21  | **[Toneflix Bash Apps][21]**                 | Bash            | N/A                                                                         | A curated collection of useful bash utilities.                                                                                                                                |
+| 22  | **[Toneflix Bash Apps][22]**                 | Bash            | N/A                                                                         | A curated collection of useful bash utilities.                                                                                                                                |
 
 [1]:https://github.com/toneflix/laravel-fileable
 [2]:https://github.com/toneflix/laravel-approvable-notifications
@@ -132,3 +132,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [i21]:https://img.shields.io/npm/v/@toneflix/vue-place-selector.svg?style=flat-square
 [l21]:https://www.npmjs.com/package/@toneflix/vue-place-selector
 [d21]:https://img.shields.io/npm/dt/@toneflix/vue-place-selector.svg?style=flat-square
+
+[i22]:/
+[l22]:/
+[d22]:/
