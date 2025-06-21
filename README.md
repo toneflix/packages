@@ -90,7 +90,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [d10]:https://img.shields.io/npm/dt/@toneflix-code/flickity-vue.svg?style=flat-square
 
 [i11]:https://img.shields.io/packagist/v/hpwebdeveloper/laravel-pay-pocket.svg?style=flat-square
-[l11]:https://packagist.org/packages/hpwebdeveloper/laravel-pay-pocket
+[l11]:https://packagist.org/packages/toneflix-code/laravel-pay-pocket
 [d11]:https://img.shields.io/packagist/dt/hpwebdeveloper/laravel-pay-pocket.svg?style=flat-square
 
 [i12]:https://img.shields.io/packagist/v/toneflix-code/social-interactions.svg?style=flat-square
