@@ -36,7 +36,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [8]:https://github.com/toneflix/vue-video-conferencing
 [9]:https://github.com/toneflix/vue-video-conferencing-lite
 [10]:https://github.com/toneflix/flickity-vue
-[11]:https://github.com/HPWebdeveloper/laravel-pay-pocket
+[11]:https://github.com/toneflix-code/laravel-pay-pocket
 [12]:https://github.com/toneflix/laravel-social-interactions
 [13]:https://github.com/toneflix/fakerphp-lorem-toneflix
 [14]:https://naija-places.toneflix.com.ng
