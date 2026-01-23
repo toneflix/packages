@@ -14,7 +14,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 9   | **[Vue Video Confrencing][8]**               | Vue/Javascript        | [![Latest Stable Version][i8]][l8] <br /> [![Total Downloads][d8]][l8]      | Simple video conferencing library built with Vue.js and Jitsi Meet API (Low Level).                                                                                           |
 | 10  | **[Vue Video Confrencing (Lite)][9]**        | Vue/Javascript        | [![Latest Stable Version][i9]][l9] <br /> [![Total Downloads][d9]][l9]      | Simple video conferencing library built with Vue.js and Jitsi Meet API (Low Level, Stripped Dependencies).                                                                    |
 | 11  | **[Flickity Vue][10]**                       | Vue/Javascript        | [![Latest Stable Version][i10]][l10] <br /> [![Total Downloads][d10]][l10]  | A vue 3 wrapper component for Flickity slider                                                                                                                                 |
-| 12  | **[Laravel Pay Pocket][11]**                 | Laravel/PHP           | [![Latest Stable Version][i11]][l11] <br /> [![Total Downloads][d11]][l11]  | A Laravel 10,11,12 modern multi-wallet package with comprehensive logging and payments capabilities.                                                                             |
+| 12  | **[Laravel Pay Pocket][11]**                 | Laravel/PHP           | [![Latest Stable Version][i11]][l11] <br /> [![Total Downloads][d11]][l11]  | A Laravel 10,11,12 modern multi-wallet package with comprehensive logging and payments capabilities.                                                                          |
 | 13  | **[Laravel Social Interactions][12]**        | Laravel/PHP           | [![Latest Stable Version][i12]][l12] <br /> [![Total Downloads][d12]][l12]  | A Laravel package to add social interactions like likes, reactions, votes, saving/bookmarks e.t.c to your models.                                                             |
 | 14  | **[Fakerphp Lorem Toneflix Images][13]**     | Laravel/PHP           | [![Latest Stable Version][i13]][l13] <br /> [![Total Downloads][d13]][l13]  | An alternative image provider for fakerphp using Lorem Toneflix.                                                                                                              |
 | 15  | **[Naija Places API][14]**                   | Laravel/PHP           |                                                                             | Query all states, Local government areas, Wards, Polling Units and Towns in Nigeria.                                                                                          |
@@ -26,6 +26,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 21  | **[Vue Trix][20]**                           | Vue/Javascript        | [![Latest Stable Version][i20]][l20] <br /> [![Total Downloads][d20]][l20]  | Simple and lightweight Trix rich-text editor for Vue.js.                                                                                                                      |
 | 22  | **[Vue Place Selector][21]**                 | Vue/Javascript        | [![Latest Stable Version][i21]][l21] <br /> [![Total Downloads][d21]][l21]  | Country State City Selector component for Vue3.                                                                                                                               |
 | 23  | **[Toneflix Bash Apps][22]**                 | Bash                  | N/A                                                                         | A curated collection of useful bash utilities.                                                                                                                                |
+| 24  | **[Paystack CLI][24]**                       | NodeJs                | [![Latest Version][i24]][l24] <br /> [![Downloads][d24]][l24]               | Interact with the Paystack API, test webhooks locally, and manage your integration settings without leaving your command line.                                                |
 
 [0]:https://h3ravel.toneflix.net
 [1]:https://github.com/toneflix/laravel-fileable
@@ -50,6 +51,7 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [20]:https://toneflix.github.io/vue-component-pack/vue-trix
 [21]:https://github.com/toneflix/vue-component-pack/tree/main/packages/vue-place-selector
 [22]:https://github.com/toneflix/bash-apps
+[24]:https://github.com/toneflix/paystack-cli
 
 [i0]:https://img.shields.io/npm/v/@h3ravel/core.svg?style=flat-square
 [l0]:https://h3ravel.toneflix.net
@@ -138,6 +140,10 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [i21]:https://img.shields.io/npm/v/@toneflix/vue-place-selector.svg?style=flat-square
 [l21]:https://www.npmjs.com/package/@toneflix/vue-place-selector
 [d21]:https://img.shields.io/npm/dt/@toneflix/vue-place-selector.svg?style=flat-square
+
+[i24]:https://img.shields.io/npm/v/@toneflix/paystack-cli.svg?style=flat-square
+[l24]:https://www.npmjs.com/package/@toneflix/paystack-cli
+[d24]:https://img.shields.io/npm/dt/@toneflix/paystack-cli.svg?style=flat-square
 
 [i22]:/
 [l22]:/
