@@ -27,6 +27,9 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 | 22  | **[Vue Place Selector][21]**                 | Vue/Javascript        | [![Latest Stable Version][i21]][l21] <br /> [![Total Downloads][d21]][l21]  | Country State City Selector component for Vue3.                                                                                                                               |
 | 23  | **[Toneflix Bash Apps][22]**                 | Bash                  | N/A                                                                         | A curated collection of useful bash utilities.                                                                                                                                |
 | 24  | **[Paystack CLI][24]**                       | NodeJs                | [![Latest Version][i24]][l24] <br /> [![Downloads][d24]][l24]               | Interact with the Paystack API, test webhooks locally, and manage your integration settings without leaving your command line.                                                |
+| 25  | **[Ghit][25]**                               | NodeJs                | [![Latest Version][i25]][l25] <br /> [![Downloads][d25]][l25]               | Command-line toolkit for GitHub: authenticate once, set a repo, and work with issues in bulk or interactively.                                                                |
+| 26  | **[Flutterwave 4 NodeJs SDK][26]**           | NodeJs                | [![Latest Version][i26]][l26] <br /> [![Downloads][d26]][l26]               | The unofficial Flutterwave Node.js SDK for v4 APIs.                                                                                                                           |
+| 27  | **[Money][27]**                              | Javascript/Typescript | [![Latest Version][i27]][l27] <br /> [![Downloads][d27]][l27]               | A simple and efficient money and currency conversion and formatting tool for JavaScript and TypeScript projects.                                                              |
 
 [0]:https://h3ravel.toneflix.net
 [1]:https://github.com/toneflix/laravel-fileable
@@ -52,6 +55,9 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [21]:https://github.com/toneflix/vue-component-pack/tree/main/packages/vue-place-selector
 [22]:https://github.com/toneflix/bash-apps
 [24]:https://github.com/toneflix/paystack-cli
+[25]:https://github.com/toneflix/ghit
+[26]:https://github.com/toneflix/flutterwave-4-nodejs-sdk
+[27]:https://github.com/toneflix/money
 
 [i0]:https://img.shields.io/npm/v/@h3ravel/core.svg?style=flat-square
 [l0]:https://h3ravel.toneflix.net
@@ -141,10 +147,22 @@ A curated list of toneflix maintained and colaborated open source packages by Gr
 [l21]:https://www.npmjs.com/package/@toneflix/vue-place-selector
 [d21]:https://img.shields.io/npm/dt/@toneflix/vue-place-selector.svg?style=flat-square
 
+[i22]:/
+[l22]:/
+[d22]:/
+
 [i24]:https://img.shields.io/npm/v/@toneflix/paystack-cli.svg?style=flat-square
 [l24]:https://www.npmjs.com/package/@toneflix/paystack-cli
 [d24]:https://img.shields.io/npm/dt/@toneflix/paystack-cli.svg?style=flat-square
 
-[i22]:/
-[l22]:/
-[d22]:/
+[i25]:https://img.shields.io/npm/v/ghit.svg?style=flat-square
+[l25]:https://www.npmjs.com/package/ghit
+[d25]:https://img.shields.io/npm/dt/ghit.svg?style=flat-square
+
+[i26]:https://img.shields.io/npm/v/flutterwave-node-v4.svg?style=flat-square
+[l26]:https://www.npmjs.com/package/flutterwave-node-v4
+[d26]:https://img.shields.io/npm/dt/flutterwave-node-v4.svg?style=flat-square
+
+[i27]:https://img.shields.io/npm/v/@toneflix/money.svg?style=flat-square
+[l27]:https://www.npmjs.com/package/@toneflix/money
+[d27]:https://img.shields.io/npm/dt/@toneflix/money.svg?style=flat-square
